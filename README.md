@@ -1,20 +1,24 @@
-    <p>- 👋 Hi, I’m @nasimstg. </p>
-    <p>- 👀 I’m interested in c/c++, python, Django, React, Node, MERN Stack ...</p>
-<p><b><i>Cooking</i></b></p>
-<p>Currently working on: </p>
-<p>&lt;project&gt;</p>
-<ul >
-    <li>
-        - *Reddit like community/social app FightersCommunity 
-    </li>
-    <li>
-        - *AdmissionAssistant app like web app VarsityInfo(muli language)
-    </li>
-    <li>
-        - *HSC ICT full web app features = [interactive, sandbox, freeView]
-    </li>
-</ul>
-<p>&lt;/project&gt;</p>
+```
+Name: Mohammed Nasim
+Occupation: Full Stack Web Developer
+Company: wooeneStudio
+Mail: nasim.stg@email.com
+````
+
+# Hi, Thanks for being interested in learning about us.
+
+I'm Mohammed Nasim founder of [wooeneStudio](https://wooenestudio.github.io/) . I'm a student and a semi professinal fullStack web developer. 
+
+## Currently working on:
+Being a tech enthusiast, I'm not able to stay free for long. I always like it being busy working on ideas. Someday One of my ideas will help millions.
+Heres' some of my ongoin projects in brief.
+```
+<project>
+    - *Reddit like community/social app FightersCommunity 
+    - *AdmissionAssistant app like web app VarsityInfo(muli language)
+    - *HSC ICT full web app features = [interactive, sandbox, freeView]
+</project>
+```
  <p><b><i>- 📫 How to reach me ...</i></b></p>
  <ul>
   <li><a href="mailto:nasim.stg@gmail.com">Email</a></li>
