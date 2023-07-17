@@ -1,9 +1,7 @@
-```
-Name: Mohammed Nasim
-Occupation: Full Stack Web Developer
-Company: wooeneStudio
-Mail: nasim.stg@email.com
-````
+> Name: Mohammed Nasim <br>
+> Occupation: Full Stack Web Developer <br>
+> Company: wooeneStudio <br>
+> Mail: nasim.stg@email.com <br>
 
 # Hi, Thanks for being interested in learning about us.
 
@@ -19,11 +17,23 @@ Heres' some of my ongoin projects in brief.
     - *HSC ICT full web app features = [interactive, sandbox, freeView]
 </project>
 ```
- <p><b><i>- 📫 How to reach me ...</i></b></p>
- <ul>
-  <li><a href="mailto:nasim.stg@gmail.com">Email</a></li>
-  <li><a href="https://fb.com/mohammed.nasim.on3">Facebook</a></li>
-</ul>
+
+``` 
+ Skills nasimstg;
+  - nasimstg.loading("Kernal");
+  - nasimstg.loading("OS");
+  - nasimstg.loading("PhysicsEngine");
+ nasimstg.getSkills();
+```
+// Output: Kernal, OS, PhysicsEngine, <br>
+print("NITER CSE! I am coming.") <br>
+HOLD ON ..>
+
+
+ ***- 📫 How to reach me ...***
+ - [Email](mailto:nasim.stg@gmail.com) 
+ - [Facebook](https://fb.com/mohammed.nasim.on3)
+ - [LinkedIN](https://www.linkedin.com/in/nasimstg/)
 
 <!---
 nasimstg/nasimstg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
