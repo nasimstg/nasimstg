@@ -5,7 +5,7 @@
 
 # Hi, Thanks for being interested.
 
-I'm Mohammed Nasim founder of [wooeneStudio](https://wooenestudio.github.io/) . I'm a student and a semi professinal fullStack web developer. 
+I'm Mohammed Nasim founder of [wooeneStudio](https://wooenestudio.github.io/) . I'm a student and a semi professional fullStack web developer. 
 
 ## Currently working on:
 Being a tech enthusiast, I'm not able to stay free for long. I always like it being busy working on ideas. Someday One of my ideas will help millions.
