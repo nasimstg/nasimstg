@@ -3,7 +3,7 @@
 > Company: wooeneStudio <br>
 > Mail: nasim.stg@email.com <br>
 
-# Hi, Thanks for being interested in learning about us.
+# Hi, Thanks for being interested.
 
 I'm Mohammed Nasim founder of [wooeneStudio](https://wooenestudio.github.io/) . I'm a student and a semi professinal fullStack web developer. 
 
