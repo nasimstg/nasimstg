@@ -103,7 +103,7 @@
  - [LinkedIN](https://www.linkedin.com/in/nasimstg/)
  - [Freelancer](https://www.freelancer.com/u/nasim0n)
  - [Upwork](https://www.upwork.com/freelancers/~01d30c89bfd7c148a3)
-
+<a href="https://app.daily.dev/nasimstg"><img src="https://api.daily.dev/devcards/e1583c8e9fb14d31a539ded36e5acf25.png?r=gt2" width="400" alt="Md Nasim Sheikh's Dev Card"/></a>
 <!---
 nasimstg/nasimstg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
