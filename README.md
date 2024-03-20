@@ -37,11 +37,11 @@
 	- National Camp, Bangladesh Olympiad in Informatics
 
 ## **Some recent Work and Projects:** 
-#### Linux Kernel Modification & Addition of Syscalls 
+#### [Linux Kernel Modification & Addition of Syscalls](./Linux-kernel-2.4.27/)
     Linux, Unix, System Architecture, x86/x86_64 Assembly, 
     C, Cmake, GNU Tool Chain 
 
-#### Linux Kernel Modification & Addition of Syscalls and Scheduler
+#### [Linux Kernel Modification & Addition of Syscalls and Scheduler](./Linux-kernel-2.4.27/stride-scheduler)
 
     Linux System Call, Linux Kernel Process Scheduler, 
     Kernel Modification 
@@ -57,11 +57,11 @@
     Linker, File System, Kernel, DSA, Networking, CI/CD, 
     Build Tools 
 
-#### Racket Text Editor for Windows OS
+#### [Racket Text Editor for Windows OS](./Racket-Language/text-editor-win)
     Racket Programming Language, Functional, 
     Extensive Documentation
 
-#### Racket Shape Drawing Application for Windows OS
+#### [Racket Shape Drawing Application for Windows OS](./Simple Darwing Application)
 
      Multi Shape, Big-Bang Interactive Application, Object Oriented
      Programming, Interaction Handling, Real time Animation
